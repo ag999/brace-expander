@@ -1,6 +1,6 @@
 # Parenthesis Expander
 
-**This is a parenthesis expander. You can either call it with an argument or just call it and it will ask for the input string. It will return an array.**
+**This is a parenthesis expander. You can either call it with an argument string or just call it and it will ask for the input string. It will return an array.**
 
 ### Example
 * **Input:** foo-(a,b)-(1,2,5).(txt,jpg)
